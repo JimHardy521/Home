@@ -13,7 +13,7 @@ Within school, I have created numerous Geogebra applets to support my Sixth Form
 Prior to teaching I graduated in Computer Science from Loughborough University (gaining 78% in my final year project - ‘The Evolution of Artificial Intelligence’), and completed a placement year as an IT analyst for Mars, Masterfoods.
 
 I live in West Bridgford (Nottingham) with my wife and daughter, and enjoy long-distance running and triathlon.
-
+  
 ![](/CodeCademy-MLCertificate.png)
 
 ![](/CodeCademy-AnalyticsCertificate.png)
