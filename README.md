@@ -14,7 +14,4 @@ Prior to teaching I graduated in Computer Science from Loughborough University (
 
 I live in West Bridgford (Nottingham) with my wife and daughter, and enjoy long-distance running and triathlon.
   
-![](/CodeCademy-MLCertificate.png)
-
-![](/CodeCademy-AnalyticsCertificate.png)
-
+![](/Certs.png)
